@@ -24,7 +24,6 @@ export default class NavigationBar extends Component {
                             <MenuItem>Report A Bug</MenuItem>
                         </NavDropdown>
                     </Nav>
-
                 </Navbar.Collapse>
             </Navbar>
         )
